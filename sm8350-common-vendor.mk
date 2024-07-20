@@ -421,6 +421,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/ringtone_Sun_glittering_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/ringtone_Sun_glittering_RTP.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/shuntai24k_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/shuntai24k_rtp.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/t-jingle_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/t-jingle_RTP.bin \
+    vendor/oneplus/sm8350-common/proprietary/odm/firmware/mt7662.bin:$(TARGET_COPY_OUT_ODM)/firmware/mt7662.bin \
+    vendor/oneplus/sm8350-common/proprietary/odm/firmware/mt7662_rom_patch.bin:$(TARGET_COPY_OUT_ODM)/firmware/mt7662_rom_patch.bin \
+    vendor/oneplus/sm8350-common/proprietary/odm/firmware/mt7662u.bin:$(TARGET_COPY_OUT_ODM)/firmware/mt7662u.bin \
+    vendor/oneplus/sm8350-common/proprietary/odm/firmware/mt7662u_rom_patch.bin:$(TARGET_COPY_OUT_ODM)/firmware/mt7662u_rom_patch.bin \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/FW_S3908_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/FW_S3908_SAMSUNG.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/FW_S3908_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/FW_S3908_SAMSUNG_FAE.img \
     vendor/oneplus/sm8350-common/proprietary/odm/firmware/tp/19815/LIMIT_S3908_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19815/LIMIT_S3908_SAMSUNG.img \
